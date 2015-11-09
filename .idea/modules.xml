@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MusicInterface/MusicInterface.iml" filepath="$PROJECT_DIR$/MusicInterface/MusicInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReadFile/ReadFile.iml" filepath="$PROJECT_DIR$/ReadFile/ReadFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleBrowser/SimpleBrowser.iml" filepath="$PROJECT_DIR$/SimpleBrowser/SimpleBrowser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TextFile/TextFile.iml" filepath="$PROJECT_DIR$/TextFile/TextFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TypeForSets/TypeForSets.iml" filepath="$PROJECT_DIR$/TypeForSets/TypeForSets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/programGroups.iml" filepath="$PROJECT_DIR$/programGroups.iml" />
+    </modules>
+  </component>
+</project>
